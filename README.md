@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Manisha Devi  
+## 👋 Hi, I'm Manisha 
 
 🎓 18-year-old Polytechnic Diploma Student in Computer Engineering  
 💻 Frontend Developer | 🎨 Graphic Designer  
